@@ -8,3 +8,4 @@ Setup ESLint
 Setup Testing frameworks: Mocha, Chai, JSDOM
 Setup Continuous Integration
 Setup fetch for HTTP calls
+Setup Mocking HTTP with JSON Server, declare schema with JSON Schema Faker
