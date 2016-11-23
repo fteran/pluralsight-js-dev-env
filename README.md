@@ -12,3 +12,4 @@ Setup Mocking HTTP with JSON Server, declare schema with JSON Schema Faker
 Preparing project for production
 Production JS Error Logging
 Production Deploy: Updated prod url to new Heroku app for our API
+Production Deploy: Deploy UI to surge
